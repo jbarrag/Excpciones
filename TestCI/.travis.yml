@@ -1,7 +1,7 @@
 language: java
 addons:
   sonarcloud:
-    organization: "mateohernandezs-github"
+    organization: "jbarrag-github"
     token:
  secure: V6hESxXKhBYd6ESHDDOeICGSTbcKqwchQUriD4NF/XqISxa3cauGlYAN/axxLfU0AjOiRcM9ooLreSzSl/fTyzxOW1HC+O1772C7rw7vr07uKUhrD79g13jFX0iuqwaPIk6+0olNEWWYh/dZF+zJs3kmmR6s7Vom+A5YSa10ECrSXeXokow+EtciLOvvdr7A2JohAwQZ+jARGyYRnqlpO8ILNzX8bFYNQwSbriQPaf6jFhi71kD/L0dX60irqprUwKk3sAdMvlIU32d0q6Xr0Lu13ysERHaVNxIR6S6IJQ41/iUwlTXEWF3FA7T3oORQ7B6gDErptD0x2MYd500D4N6/BPJtllgk2g9E/t7qbExyha5SaSUej/bnd83RhgCeJgvZob1EdTUV+hEiAAS1w5CFUW3fm5VGjos+1fWlWaW70g8W3IKWkTu6gBWB33RFJguFL8S6shmTbElqFRM7LL7AWaPnta3/yuCvv1mnw0F6aS9r36TnSnRNgxkJpJnjziJGefYOPbW0L4+sdvJtel08nRQU/8CJnceMBmomuYUDfI7CTicZ/hv0PfdIue6MtXGKl+Vu7iRYBNPFLgbh0dy5MT1/Yt5afpMujrqM2cno2DvjC8XaaTCzY2JRuW74+NYmCLKK7GhewZIOJWzbmEncqC+vxs+Hho4M0fqCixw=
 script:
